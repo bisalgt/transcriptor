@@ -4,3 +4,5 @@ setuptools-rust
 deepl
 streamlit
 watchdog
+nltk
+plotly

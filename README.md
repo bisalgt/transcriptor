@@ -4,9 +4,11 @@
 
 - OpenAI whisper model used for Transcription
 - DeepL API used for Translation to English
-- The output shown using Streamlit App.
+- The output shown using Streamlit App
+- nltk used for Sentiment Analysis
+- plotly chart created and plotted on streamlit interface
 
-![Output](./outputs/Audio%20input%20with%20transcript%20generation%20and%20translation.png)
+![Output](./outputs/Audio%20transcription%20and%20analysis%20with%20nltk.png)
 
 
 ### Todo :
