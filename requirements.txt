@@ -2,3 +2,5 @@ jupyterlab
 openai-whisper
 setuptools-rust
 deepl
+streamlit
+watchdog
